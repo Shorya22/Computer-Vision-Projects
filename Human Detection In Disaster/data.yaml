@@ -1,0 +1,8 @@
+train: /content/Human_Detection_In_Disaster/C2A_Dataset/new_dataset3/train
+val: /content/Human_Detection_In_Disaster/C2A_Dataset/new_dataset3/val
+test: /content/Human_Detection_In_Disaster/C2A_Dataset/new_dataset3/test
+
+nc: 1
+
+names: 
+  0: Person

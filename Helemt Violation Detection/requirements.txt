@@ -1,0 +1,7 @@
+ultralytics            
+opencv-python             
+requests                
+pytesseract               
+Pillow                     
+easyocr                    
+python-dotenv            

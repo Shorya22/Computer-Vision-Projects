@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['smoke']
+
+roboflow:
+  workspace: brad-dwyer
+  project: wildfire-smoke
+  version: 1
+  license: BY-NC-SA 4.0
+  url: https://universe.roboflow.com/brad-dwyer/wildfire-smoke/dataset/1
